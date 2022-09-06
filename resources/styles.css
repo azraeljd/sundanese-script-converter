@@ -240,6 +240,6 @@ textarea#LatinText, textarea#SundaText {
 }
 
 textarea#SundaText {
-    font-family: "Sundanese Unicode", sans-serif;
+    font-family: NotoSansSundanese;
     height: 200px;
 }
