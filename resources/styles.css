@@ -233,10 +233,11 @@ code {
 textarea#LatinText, textarea#SundaText {
     width: 90%;
     height: 150px;
-    border: 3px solid #cccccc;
+    border: 3px solid #CCCCCC;
     padding: 5px;
     font-family: sans-serif;
-    background: white;
+    background: #FFFFFF;
+    resize: none;
 }
 
 textarea#SundaText {
