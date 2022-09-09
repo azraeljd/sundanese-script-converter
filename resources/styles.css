@@ -231,7 +231,7 @@ code {
 }
 
 textarea#LatinText, textarea#SundaText {
-    width: 100%;
+    width: 90%;
     height: 150px;
     border: 3px solid #cccccc;
     padding: 5px;
@@ -241,5 +241,4 @@ textarea#LatinText, textarea#SundaText {
 
 textarea#SundaText {
     font-family: NotoSansSundanese;
-    height: 200px;
 }
